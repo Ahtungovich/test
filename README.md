@@ -1,2 +1,1 @@
-# test
-Test 1 for informatoin
+printf("gg")
